@@ -1,0 +1,16 @@
+# Data is downloaded by the user (see SETUP_DATA.md), never committed.
+data/
+tablebases/
+*.parquet
+*.rtbw
+*.rtbz
+
+# caches / scratch
+__pycache__/
+*.pyc
+*.pyo
+scratch*
+*.tmp
+*.csv
+.DS_Store
+.ipynb_checkpoints/
