@@ -3,9 +3,13 @@
 **Can a compression objective, run on data with exact ground truth, rediscover named human
 chess-endgame concepts — Lucena, Philidor, opposition — without being told them?**
 
-This is **Track B** of a research program on the powers and limits of representation (companion
-repo: [representation-dial](https://github.com/myketheguru/representation-dial)). It's the original
-experiment — with honest ceilings, including **null results that redirected the question.**
+This is **Track B** of a research program on the powers and limits of representation. It's the
+original experiment — with honest ceilings, including **null results that redirected the question.**
+
+> **Part of one body of curious work.** Companion repo —
+> **[representation-dial](https://github.com/myketheguru/representation-dial)** — holds Track **A**
+> (foundations: why search is conserved, where a matched representation collapses it) and Track **C**
+> (the frontier: representation as the access/search dial). This repo is Track **B**.
 
 > Engineering discipline pointed at foundational science: exact ground truth (Syzygy tablebases),
 > every claim a falsifiable experiment, **nulls reported as loudly as wins.**
