@@ -12,7 +12,7 @@ original experiment — with honest ceilings, including **null results that redi
 > (the frontier: representation as the access/search dial). This repo is Track **B**.
 
 > Engineering discipline pointed at foundational science: exact ground truth (Syzygy tablebases),
-> every claim a falsifiable experiment, **nulls reported as loudly as wins.**
+> and every claim a small, falsifiable experiment that prints its own verdict.
 
 ## The question
 Are human endgame concepts just *high-compression structures of outcome data*? Endgames let us test
