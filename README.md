@@ -50,7 +50,7 @@ Python 3.11+, `pip install -r requirements.txt`, plus **data you download yourse
 its verdict; run from the repo root, e.g. `python mine_run.py`.
 
 ## About
-By **myketheguru** — software engineer (10+ yrs), independent researcher. Versions in
+By **Micheal Ezeoda** (`myketheguru` on GitHub, `_darkmyke` on socials) — software engineer (10+ yrs), independent researcher. Versions in
 [VERSIONS.md](VERSIONS.md).
 
 ## Honest framing
